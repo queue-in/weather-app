@@ -17,7 +17,7 @@
     height: 50px;
     border: none;
     outline: none;
-    border-radius: 40px;
+    border-radius: 41px;
     padding-left: 25px;
     color: #626262;
     background: #ebfffc;
@@ -82,10 +82,9 @@
   }
   
   .save-button:hover {
-    background-color: #3e8bd8; /* Slightly darker on hover */
+    background-color: #3e8bd8; /* slightly darkens when hovered */
   }
   
   .save-button:focus {
     outline: none;
   }
-  
