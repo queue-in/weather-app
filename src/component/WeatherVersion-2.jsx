@@ -1,5 +1,5 @@
 import  { useEffect, useState, useRef } from "react";
-import './Weather.css'; // Ensure the correct CSS is linked
+import './WeatherVersion-2.css'; // Ensure the correct CSS is linked
 import search_icon from '../assets/search.png';
 import clear_icon from '../assets/clear.png';
 import humidity_icon from '../assets/humidity.png';

@@ -93,7 +93,7 @@ const WeatherDisplay = ({ city, onBack }) => {
           </div>
           
           
-        </>
+        
           
       ) : (
         <p>Unable to fetch weather data</p>
